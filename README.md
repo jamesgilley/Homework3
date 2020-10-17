@@ -2,8 +2,6 @@
 
  In completing this assignment, I was expected to create a random password generator. This needed to include options of special characters, upper case characters, and lower case characters.  
 
-
-
 ### Installing
 
 Use Your Browser to view work.
@@ -13,8 +11,6 @@ If you click on the link provided, the file should open in your default browser.
 ## Built With
 
 * HTML
-* CSS
-* Bootstrap
 * JavaScript
 * GoogleFoo
 
